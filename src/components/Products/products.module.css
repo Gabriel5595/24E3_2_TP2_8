@@ -1,0 +1,15 @@
+.ProductsContainer {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    margin-top: 10px;
+}
+
+.ProductsContainer h2 {
+    padding: 10px;
+}
+
+.ProductsContainerImgs {
+    display: flex;
+    justify-content: space-around;
+}
